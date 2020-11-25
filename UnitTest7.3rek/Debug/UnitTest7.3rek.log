@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest7.3rek.cpp
+C:\Users\computer\Desktop\лаби ап\лаб 7\lab 7.3 rek\lab 7.3 rek\lab 7.3 rek\lab 7.3 rek.cpp(82): warning C4715: rowSum: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\computer\Desktop\лаби ап\лаб 7\lab 7.3 rek\lab 7.3 rek\Debug\UnitTest7.3rek.lib и объект C:\Users\computer\Desktop\лаби ап\лаб 7\lab 7.3 rek\lab 7.3 rek\Debug\UnitTest7.3rek.exp
+  UnitTest7.3rek.vcxproj -> C:\Users\computer\Desktop\лаби ап\лаб 7\lab 7.3 rek\lab 7.3 rek\Debug\UnitTest7.3rek.dll
